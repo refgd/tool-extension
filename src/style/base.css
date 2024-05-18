@@ -1,0 +1,15 @@
+.chromexPathFinder{
+	/*outline: 2px solid red !important;*/
+	outline: 2px dashed #FF0000 !important
+	/*background: #B1CC14;*/
+}
+
+.chromexPathFinderHover{
+	/*outline: 2px solid black !important;*/
+	/*background: #B1CC14;*/
+	outline: 3px dashed blue !important
+}
+
+img.chromexPathFinder {
+  opacity: 0.5 !important;
+}
